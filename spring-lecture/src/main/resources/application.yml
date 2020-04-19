@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mytest
+server:
+  port: 9090
+myConfig:
+  myObject:
+    myName: zhangsan
+    myAge: 20
