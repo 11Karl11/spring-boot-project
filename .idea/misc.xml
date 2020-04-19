@@ -8,6 +8,9 @@
       <list>
         <option value="$PROJECT_DIR$/myjson-spring-boot-starter/pom.xml" />
         <option value="$PROJECT_DIR$/test-start-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_lecture/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-lecture/pom.xml" />
+        <option value="$PROJECT_DIR$/apache-shiro/pom.xml" />
       </list>
     </option>
   </component>

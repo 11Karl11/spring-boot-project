@@ -6,18 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="apache-shiro" />
+        <module name="demo" />
         <module name="my-json" />
+        <module name="spring-lecture" />
         <module name="test-start-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="apache-shiro" target="1.8" />
+      <module name="demo" target="1.8" />
       <module name="my-json" target="1.8" />
+      <module name="spring-lecture" target="1.8" />
+      <module name="spring_lecture" target="1.8" />
       <module name="test-start-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="apache-shiro" options="-parameters" />
+      <module name="demo" options="-parameters" />
       <module name="my-json" options="-parameters" />
+      <module name="spring-lecture" options="-parameters" />
+      <module name="spring_lecture" options="-parameters" />
       <module name="test-start-web" options="-parameters" />
     </option>
   </component>

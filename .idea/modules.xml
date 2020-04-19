@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache-shiro/apache-shiro.iml" filepath="$PROJECT_DIR$/apache-shiro/apache-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-start-web/demo.iml" filepath="$PROJECT_DIR$/test-start-web/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myjson-spring-boot-starter/my-json.iml" filepath="$PROJECT_DIR$/myjson-spring-boot-starter/my-json.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-project.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test-start-web/test-start-web.iml" filepath="$PROJECT_DIR$/test-start-web/test-start-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-lecture/spring-lecture.iml" filepath="$PROJECT_DIR$/spring-lecture/spring-lecture.iml" />
     </modules>
   </component>
 </project>
