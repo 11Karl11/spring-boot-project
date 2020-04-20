@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="apache-shiro" />
         <module name="demo" />
+        <module name="druid-datasource" />
+        <module name="hello-datasource" />
         <module name="my-json" />
         <module name="spring-lecture" />
         <module name="test-start-web" />
@@ -16,6 +18,9 @@
     <bytecodeTargetLevel>
       <module name="apache-shiro" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="druid-datasource" target="1.8" />
+      <module name="hello-datasource" target="1.8" />
+      <module name="hello-maven" target="1.5" />
       <module name="my-json" target="1.8" />
       <module name="spring-lecture" target="1.8" />
       <module name="spring_lecture" target="1.8" />
@@ -26,6 +31,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="apache-shiro" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="druid-datasource" options="-parameters" />
+      <module name="hello-datasource" options="-parameters" />
       <module name="my-json" options="-parameters" />
       <module name="spring-lecture" options="-parameters" />
       <module name="spring_lecture" options="-parameters" />

@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/spring_lecture/pom.xml" />
         <option value="$PROJECT_DIR$/spring-lecture/pom.xml" />
         <option value="$PROJECT_DIR$/apache-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/druid-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-hikari-datasource/pom.xml" />
       </list>
     </option>
   </component>
