@@ -12,6 +12,7 @@
         <module name="hello-datasource" />
         <module name="my-json" />
         <module name="spring-lecture" />
+        <module name="test-karl" />
         <module name="test-start-web" />
       </profile>
     </annotationProcessing>
@@ -24,6 +25,7 @@
       <module name="my-json" target="1.8" />
       <module name="spring-lecture" target="1.8" />
       <module name="spring_lecture" target="1.8" />
+      <module name="test-karl" target="1.8" />
       <module name="test-start-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -36,6 +38,7 @@
       <module name="my-json" options="-parameters" />
       <module name="spring-lecture" options="-parameters" />
       <module name="spring_lecture" options="-parameters" />
+      <module name="test-karl" options="-parameters" />
       <module name="test-start-web" options="-parameters" />
     </option>
   </component>
