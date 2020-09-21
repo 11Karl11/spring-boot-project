@@ -9,9 +9,8 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @ConfigurationProperties(prefix = "ziyou.json")
 public class MyJsonProperties {
 
-    public static final String DEFAULT_NAME = "ziyou";
 
-    private String name = DEFAULT_NAME;
+    private String name = "ziyou";
 
     public String getName() {
         return name;

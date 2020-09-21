@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/druid-datasource/pom.xml" />
         <option value="$PROJECT_DIR$/hello-hikari-datasource/pom.xml" />
         <option value="$PROJECT_DIR$/test-karl/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-demo/pom.xml" />
       </list>
     </option>
   </component>
